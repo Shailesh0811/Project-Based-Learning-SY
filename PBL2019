@@ -1,3 +1,8 @@
+/* 	This is my PBL or nothing but Project Based Learning Code. 
+	It is system that simulates idea of friend suggestion in a network. 
+	Exactly like facebook.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
